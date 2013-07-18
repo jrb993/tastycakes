@@ -7,17 +7,18 @@ a code-minded man, so I decided I wanted in! Everyone else on the team knew and
 used Git exclusively, but I only knew SVN. I'd been meaning to learn Git, so I
 decided this was as good a time as any.
 
-Tasty Cakes is a bakery in San Francisco, CA with a little problem: their cakes
-are to DIE for, but they have very few customers because they don't have a
-website! In exchange for getting them online, they've offered me a lifetime
-supply of free cakes. I think this is the beginning of a beautiful relationship.
+Tasty Cakes is a (fictional) bakery in San Francisco, CA with a little problem: 
+their cakes are to DIE for, but they have very few customers because they don't 
+have a website! In exchange for getting them online, they've offered me a 
+lifetime supply of free cakes. I think this is the beginning of a beautiful 
+relationship.
 
 License
 =======
 
 The MIT License (MIT)
 
-Copyright (c) 2013 jrb993
+Copyright (c) 2013 Jamison Bryant
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
